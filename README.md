@@ -1,6 +1,6 @@
 # Algorithms.python
-	This is a personal educational project to learn logics, algorithms and programming. Overall I am interested in understand how algorithms works, taking into account its limits and possibilities. For that reason, you will find verification algorithms as prime verification, biyective function verification or wff PL verification.
-	The use of the different algorithms is free and you can use as you want. Also I thanks all the commentaries and possible feedback.
+This is a personal educational project to learn logics, algorithms and programming. Overall I am interested in understand how algorithms works, taking into account its limits and possibilities. For that reason, you will find verification algorithms as prime verification, biyective function verification or wff PL verification.
+The use of the different algorithms is free and you can use as you want. Also I thanks all the commentaries and possible feedback.
 
 ## Objetives
 
